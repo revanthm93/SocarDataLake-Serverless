@@ -39,3 +39,5 @@ https://s3.console.aws.amazon.com/s3/buckets/socardl-processeds3bucket-aoutxjqiu
 6. Configured the cloudWatch Events rule - OpsEventRule to send an email notification to us using an Amazon SNS topic to inform us that our data has been successfully processedby our ETL gluejob.
 
 7. On top of the Processed data in processed bucket, Athena tables can be created for querying and using quicksight we can vizualise the data.
+
+Account provided wasn't provisioned with quicksight. So couldn't touch up on visualization part. And its just simple since we already have the processed data in place.
