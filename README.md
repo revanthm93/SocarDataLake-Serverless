@@ -41,3 +41,15 @@ https://s3.console.aws.amazon.com/s3/buckets/socardl-processeds3bucket-aoutxjqiu
 7. On top of the Processed data in processed bucket, Athena tables can be created for querying and using quicksight we can vizualise the data.
 
 Account provided wasn't provisioned with quicksight. So couldn't touch up on visualization part. And its just simple since we already have the processed data in place.
+
+
+Additional items done:
+
+Handled realtime streaming data using kinesis data stream and firehose.
+
+The streaming source can be trigger using either of the scripts given or you can use kinesis data generator with credentials:
+
+link - https://awslabs.github.io/amazon-kinesis-data-generator/web/producer.html?upid=ap-south-1_0Z2Xlf9O8&ipid=ap-south-1:d04ecc1d-7161-46cb-8433-0c3ec0316d0b&cid=3fmlk9p4gr8992v4qbn2h2jj1k&r=ap-south-1
+
+username - Candidate-10001-ap-south-1
+password - Socar123
