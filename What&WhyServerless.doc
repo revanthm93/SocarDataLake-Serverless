@@ -1,0 +1,8 @@
+What is a serverless architecture?
+A serverless architecture is a way to build and run applications and services without having to manage infrastructure. Your application still runs on servers, but all the server management is done by AWS. You no longer have to provision, scale, and maintain servers to run your applications, databases, and storage systems. Learn more about serverless computing here.
+
+Why use serverless architectures?
+By using a serverless architecture, your developers can focus on their core product instead of worrying about managing and operating servers or runtimes, either in the cloud or on-premises. This reduced overhead lets developers reclaim time and energy that can be spent on developing great products which scale and that are reliable.
+
+Use cases of serverless architectures
+In this whitepaper, we show how you can build web applications and mobile backends in a faster, more agile way. We introduce how you can use cloud services like AWS Lambda, Amazon API Gateway, and Amazon DynamoDB to implement serverless architectural patterns that reduce the operational complexity of running and managing applications.
